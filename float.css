@@ -1,0 +1,23 @@
+.wrap{
+	max-width: 600px;
+	width: 80%;
+	margin: auto;
+	background-color: yellow;
+	overflow: hidden;
+}
+.content, aside{
+	height: 600px;
+}
+.content{
+	background-color: red;
+	float: left;
+	width: 70%;
+}
+aside{
+	background-color: green;
+	float: left;
+	width: 30%;
+}
+aside ul {
+	padding-left: 20px;
+}
