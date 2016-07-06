@@ -1,0 +1,16 @@
+
+body{
+	width: 600px;
+}
+img{
+	float: left;
+	margin-right: 30px;
+}
+li{
+	text-decoration: none;
+}
+.preview{
+	float: right;
+	background-color: red;
+	width: 270px;
+}
